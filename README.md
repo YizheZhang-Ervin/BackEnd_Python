@@ -25,7 +25,7 @@
   - Dependency libs: pipreqs ./
   - heroku run python xxx
 - Deployment
-
+  - Heroku / Nginx / uWSGI
 ## Spring
 
 ## Tornado
