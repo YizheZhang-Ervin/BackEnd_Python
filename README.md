@@ -1,25 +1,31 @@
 # TMPL_WebDevelopment
 
-## React + Django
+## React + Django_Template
+- React
+- Django_Template / RESTful Django
 
 ## Angular + ExpressGenerator
-
-- ng build
-- node server.js
-- MongoDB \MongoDB\bin>mongod --dbpath E:\Softwares\MongoDB\data
+- Angular / Angular_Template / AngularAntd_Template
+  - ng build
+- Express Simple / ExpressGenerator
+  - node server.js
+- MongoDB 
+  - \MongoDB\bin>mongod --dbpath \MongoDB\data
 
 ## Vue + Flask
-
-- npm run serve
-- Vue + ionic + Axios + pubsub-js
-- 父子组件/同级组件互相传值
-- 前后端 axios 传值
-- python -m flask run
-- get/post 的路由传参/问号传参
-- Virtual Env libs: pip freeze > requirements.txt
-- Dependency libs: pipreqs ./
-- heroku run python xxx
-
-## Express
+- Vue Simple / Vue_Template / Ionic VueCLI
+  - npm run serve
+  - Vue + ionic + Axios + pubsub-js
+  - 父子组件/同级组件互相传值
+  - 前后端 axios 传值
+- Flask Simple / Flask_Template / RESTful Flask
+  - python -m flask run
+  - get/post 的路由传参/问号传参
+  - Virtual Env libs: pip freeze > requirements.txt
+  - Dependency libs: pipreqs ./
+  - heroku run python xxx
+- Deployment
 
 ## Spring
+
+## Tornado
