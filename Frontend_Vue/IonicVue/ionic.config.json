@@ -1,0 +1,7 @@
+{
+  "name": "ezApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

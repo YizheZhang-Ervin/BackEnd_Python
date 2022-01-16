@@ -1,0 +1,12 @@
+<h1>App Component</h1>
+<div>
+  <input type="checkbox" [checked]="showData" (click)="toggleData()">
+  <label for="heroes">Heroes</label>
+
+</div>
+
+<app-api *ngIf="showData"></app-api>
+
+
+<router-outlet></router-outlet>
+
