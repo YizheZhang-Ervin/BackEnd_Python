@@ -1,19 +1,19 @@
-# TMPL_WebDevelopment
+# BackEnd_Python
 
 ## React + Django_Template
-- React
+- React (见FrontEnd_NodeJS)
 - Django_Template / RESTful Django
 
 ## Angular + ExpressGenerator
-- Angular / Angular_Template / AngularAntd_Template
+- Angular / Angular_Template / AngularAntd_Template (见FrontEnd_NodeJS)
   - ng build
-- Express Simple / ExpressGenerator
+- Express Simple / ExpressGenerator / Express_Template (见FrontEnd_NodeJS)
   - node server.js
 - MongoDB 
   - \MongoDB\bin>mongod --dbpath \MongoDB\data
 
 ## Vue + Flask
-- Vue Simple / Vue_Template / Ionic VueCLI
+- Vue Base / Vue Simple / Vue CLI / Vue Ionic CLI / Vue_Template (见FrontEnd_NodeJS)
   - npm run serve
   - Vue + ionic + Axios + pubsub-js
   - 父子组件/同级组件互相传值
@@ -26,6 +26,5 @@
   - heroku run python xxx
 - Deployment
   - Heroku / Nginx / uWSGI
-## Spring
 
 ## Tornado
